@@ -17,14 +17,14 @@
         "pressure": 1012.12,
         "sea_level": 1019.71,
         "grnd_level": 1012.12,
-        "humidity": 98
+        "humidity": 98,
       "dt": 1485745061 },
     
     { "temp": 279.38,
         "pressure": 1011,
         "humidity": 93,
         "temp_min": 278.15,
-        "temp_max": 280.15
+        "temp_max": 280.15,
       "dt": 1485768552 }
   ],
   "comments": [
